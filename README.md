@@ -10,11 +10,11 @@ In this unit, coders will create a Rock, Paper, Scissors game. To create this pr
 
 #### Set-Up
 - [x] Go to the repository at https://github.com/itscodenation/rockpaperscissors
-- [ ] Fork this repository to your Github account and pull it down to Glitch
-- [ ] Look through all the Starter Code
+- [x] Fork this repository to your Github account and pull it down to Glitch
+- [x] Look through all the Starter Code
 
 ### JavaScript
-- [ ] Use JavaScript to display the value of the input on the page
+- [x] Use JavaScript to display the value of the input on the page
 
 ### HTML and CSS
 - [ ] Add any more HTML elements you will need to the page
